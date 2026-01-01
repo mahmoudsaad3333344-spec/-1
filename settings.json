@@ -2,13 +2,13 @@
   "bot-account": {
     "username": "الزنجي3", 
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
 
   "server": {
-    "ip":"Nobody-Gives-A-Shit.aternos.me", 
-    "port":13933,   
-    "version":"1.21.11"   
+    "ip": "Nobody-Gives-A-Shit.aternos.me", 
+    "port": "13933",   
+    "version": "1.21.11"   
   },
 
   "position": {
